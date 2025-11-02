@@ -86,7 +86,7 @@
 
 - **Explica qué es un **puerto** en redes y por qué es importante para HTTP.**
 
-    _Un puerto es un punto de acceso que permiten la transferencia de datos entres los dipositivos en una red, actuando como una interface espesíficas que direccionas el t´pafico de informacion de una manera eficiente y organizada. 
+    _Un puerto es un punto de acceso que permiten la transferencia de datos entres los dipositivos en una red, actuando como una interface específicas que direccionas el tráfico de informacion de una manera eficiente y organizada. 
     Esto es importante ya que ayuda a que facilita la identificación y organización._
     
     _Garantiza la comunicación, da seguridad y control de acceso, optimiza el rendimiento y tiene protocolos y servicios específicos._ 
@@ -140,7 +140,7 @@
 - 🚫 `404 Not Found` → El recurso solicitado no existe.  
 - ⚠️ `500 Internal Server Error` → Error general del servidor.
 
-_Estos coódigos nos ayudara en el momento que este creando un proyecto ya que según ya con la información estudiada nos darán el error que se cometio y poder resolverlo de una manera mas eficiente._
+_Estos códigos nos ayudara en el momento que este creando un proyecto ya que según ya con la información estudiada nos darán el error que se cometio y poder resolverlo de una manera mas eficiente._
 
 
 ### **4. Métodos HTTP**
@@ -318,7 +318,7 @@ Investiga los principales métodos HTTP utilizados en APIs RESTful:
 
 🔹 **¿Por qué son importantes al consumir APIs?**
 
-    _ES importante ya que permiten una comunicación segura y eficiente entre el cliente y el servidor._
+    Es importante ya que permiten una comunicación segura y eficiente entre el cliente y el servidor.
 
 🔹 **Muestra un ejemplo de una solicitud completa con cabeceras incluidas.**
 
@@ -370,3 +370,6 @@ Muestra el servidor
 
 }
 
+**Resumen de investigación**
+
+_En conclusión luego de toda la información adquirida de la investigación sera util en los futuros proyectos que realizare ya que esto me ayudara a manejar la información que sera usada durante el servicio, igual el cifrado de datos cuando sea necesario ademas de poder a reconocer errores con los códigos estudiados tambien con los metodos de HTTP para recopilar, crear, actualizar y eliminar. Esto me ayudara a poder visualizar y solucionar los errores y manejar la información de una manera segura y eficiente._
